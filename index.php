@@ -4,7 +4,7 @@
 <head>
 	<meta charset="utf-8"/>
 	<title>FuwuZone</title>
-	<link rel="stylesheet" href="style/original/base.css">
+	<link rel="stylesheet" href="https://raw.github.com/briceaiello/FuwuZone/master/style/original/base.css">
 	<script type="text/javascript" src="http://code.jquery.com/jquery-latest.js"></script>
 	<script type="text/javascript" src="https://raw.github.com/briceaiello/FuwuZone/master/scripts/ob.js"></script>
 </head>
