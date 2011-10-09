@@ -6,7 +6,7 @@
 	<title>FuwuZone</title>
 	<link rel="stylesheet" href="style/original/base.css">
 	<script type="text/javascript" src="http://code.jquery.com/jquery-latest.js"></script>
-	<script type="text/javascript" src="./scripts/ob.js"></script>
+	<script type="text/javascript" src="https://raw.github.com/briceaiello/FuwuZone/master/scripts/ob.js"></script>
 </head>
 
 <body>
