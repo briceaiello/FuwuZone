@@ -14,8 +14,8 @@
 	<div id="h">
 		<div id="hp">left</div>
 		<div id="hu">
-			<span id="huc">
-				<span href="#" rel="ob">Sign in</span>
+			<span id="huc" href="#" rel="ob">
+				<span>Sign in</span>
 			</span>
 		</div>
 	</div>

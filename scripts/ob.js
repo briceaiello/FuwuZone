@@ -27,8 +27,8 @@ ob = {
 	open : function(thing){
 		ob.thing = thing;
 		$("body").append('<div id="ob"><div id="oba"></div><div id="obl"></div><div id="obc"><div id="obcr"><div id="obcc"></div></div></div></div>');
-		$("#oba").css("display":"block").fadeTo(500,0.8);
-		$("#obl").css("display":"block").fadeTo(500,1);
+		$("#oba").css("display","block").fadeTo(500,0.8);
+		$("#obl").css("display","block").fadeTo(500,1);
 	}
 
 }
