@@ -4,10 +4,10 @@
 
 	#ob{}
 	#ob #oba{position:fixed;top:0;left:0;width:100%;height:100%;z-index:10000;background:#000000;opacity:0;display:none;}
-	#ob #obl{position:fixed;top:0;left:0;width:100%;height:100%;z-index:10000;background:url("../../images/loader.gif")center center no-repeat;opacity:0;display:none;}
-	#ob #obc{position:absolute;top:100px;left:100px;z-index:10001;background:#FFF;opacity:0;display:none;}
+	#ob #obl{position:absolute;top:100px;left:100px;width:100px;height:100px;z-index:10001;background:url("../../images/loader.gif")center center no-repeat;opacity:0;display:none;}
+	#ob #obc{position:absolute;top:100px;left:100px;z-index:10001;opacity:0;display:none;}
 	#ob #obcr{position:relative;}
-	#ob #obcc{padding:10px;}
+	#ob #obcc{}
 
 
 	#h{position:fixed;top:0;left:0;right:0;height:30px;background-color:#2D2D2D;font:13px/30px Arial,sans-serif;color:#CCCCCC;} 
